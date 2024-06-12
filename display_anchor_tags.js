@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         display anchor tags
+// @name         display anchor tags without links
 // @namespace    http://masukomi.org/
 // @version      2024-06-09
 // @description  make sure all anchor tags have something you can click on
-// @author       You
+// @author       masukomi
 // @match        https://*
 // @grant        none
 // ==/UserScript==

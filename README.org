@@ -6,10 +6,10 @@ The vast majority of them are compensating for web sites that weren't tested wit
 
 Some screenshots with examples of the type of stuff these do:
 
-[[file:screenshots/thangs_search_fix.jpg][Before & After of fixing Thangs.com's unusable search field]]
+[[file:screenshots/thangs_search_fix.jpg]]
 
-[[file:screenshots/readable_gh_content.jpg][Before & After of making GitHub PRs more readable]]
+[[file:screenshots/readable_gh_content.jpg]]
 
-[[file:screenshots/stack_overflow_sidebar_removal.jpg][Before & After of removing the right sidebar on Stack Overflow]]
+[[file:screenshots/stack_overflow_sidebar_removal.jpg]]
 
-[[file:screenshots/readable_fireballs.jpg][Before & After of widening the text body on Daring Fireball]]
+[[file:screenshots/readable_fireballs.jpg]]

@@ -6,10 +6,19 @@ The vast majority of them are compensating for web sites that weren't tested wit
 
 Some screenshots with examples of the type of stuff these do:
 
+Fixing the unusably small search field on [[https://thangs.com][thangs.com]]
 [[file:screenshots/thangs_search_fix.jpg]]
 
+Making the main body of GitHub wider so that you can see more of code examples.
 [[file:screenshots/readable_gh_content.jpg]]
 
+
+Removing the useless right sidebar on [[https://stackoverflow.com][StackOverflow]] & expanding the questions and answers into the newly available space.
 [[file:screenshots/stack_overflow_sidebar_removal.jpg]]
 
+
+Making daring fireball's tiny central column be an actually useful width.
 [[file:screenshots/readable_fireballs.jpg]]
+
+
+That and many more.

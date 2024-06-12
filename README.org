@@ -1,0 +1,15 @@
+#+title: Readme
+
+This repo contains the many [[https://www.tampermonkey.net/][Tampermonkey]] scripts I use to make the web less crappy.
+
+The vast majority of them are compensating for web sites that weren't tested with large font sizes. This typically results in text being cut off, or so much clutter that there isn't much space left for the content.
+
+Some screenshots with examples of the type of stuff these do:
+
+[[file:screenshots/thangs_search_fix.jpg][Before & After of fixing Thangs.com's unusable search field]]
+
+[[file:screenshots/readable_gh_content.jpg][Before & After of making GitHub PRs more readable]]
+
+[[file:screenshots/stack_overflow_sidebar_removal.jpg][Before & After of removing the right sidebar on Stack Overflow]]
+
+[[file:screenshots/readable_fireballs.jpg][Before & After of widening the text body on Daring Fireball]]

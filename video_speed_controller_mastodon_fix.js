@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Video Speed Controller Mastodon Fix
-// @namespace    http://tampermonkey.net/
+// @namespace    http://masukomi.org/
 // @version      2024-04-25
 // @description  fixes the display of VSC controller on mastodon
 // @author       masukomi@masukomi.org

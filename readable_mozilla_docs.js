@@ -13,4 +13,7 @@ GM_addStyle(`
 #content {
   min-width: fit-content;
 }
+.main-wrapper {
+  display: flex;
+}
 `);

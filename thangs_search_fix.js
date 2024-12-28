@@ -10,6 +10,10 @@
 // ==/UserScript==
 
 GM_addStyle(`
+div > form > div > input {
+ min-width: 15em;
+}
+
 html > body > div:nth-of-type(2) > div:nth-of-type(2) > div:first-of-type > div > div > div:nth-of-type(2) > div {
     display: block;
     position: absolute;
